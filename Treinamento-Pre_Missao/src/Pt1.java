@@ -1,8 +1,7 @@
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class App {
+public class Pt1 {
     public static void main(String[] args) throws Exception {
 
         Random random = new Random();
