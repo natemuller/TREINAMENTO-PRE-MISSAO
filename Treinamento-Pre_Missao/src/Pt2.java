@@ -54,5 +54,7 @@ public class Pt2 {
         for (int i = 0; i < codinomes.size(); i++) {
             System.out.println(" - " + codinomes.get(i));
         }
+
+        codinomes.replaceAll();
     }
 }
