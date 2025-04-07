@@ -38,7 +38,7 @@ public class App {
         mensagensSecretas.add("Gosta"); 
         mensagensSecretas.add("Voce");  
 
-        System.out.println("Ultima mensagem adicionada!:\n" + mesagensSecretas.get(mensagensSecretas.size() - 1));
+        System.out.println("Ultima mensagem adicionada!:\n" + mensagensSecretas.get(mensagensSecretas.size() - 1));
 
         System.out.printf("Todas as mensagens na ordem inversa:\n");
 
